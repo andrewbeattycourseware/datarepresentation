@@ -1,0 +1,22 @@
+{
+    "Books": [
+        {
+            "Title": "the order of the pheonix",
+            "Author": "JK Rowling",
+            "ISBN": "1234556677",
+            "Price": 199
+        },
+        {
+            "Title": "The Goblet of Fire",
+            "Author": "JK Rowling",
+            "ISBN": "1234556678",
+            "Price": 199
+        },
+        {
+            "Title": "Data representation course",
+            "Author": "Andrew Beatty",
+            "ISBN": "1234556679",
+            "Price": 10000099
+        }
+    ]
+}

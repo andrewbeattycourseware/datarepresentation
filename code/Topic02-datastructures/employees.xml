@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Company>
+	<Employee category="Technical">
+		<FirstName>
+			Joe
+		</FirstName>
+		<LastName>
+			Murphy
+		</LastName>
+		<ContactNo>
+			1234567890
+		</ContactNo>
+	</Employee>
+	<Employee category="Non-Technical">
+		<FirstName>
+			Mary
+		</FirstName>
+		<LastName>
+			Martin
+		</LastName>
+		<ContactNo>
+			1234667898
+		</ContactNo>
+	</Employee>
+</Company>
