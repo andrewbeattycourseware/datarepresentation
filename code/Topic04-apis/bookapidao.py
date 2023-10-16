@@ -40,11 +40,11 @@ if __name__ == "__main__":
         "Price": 123
     }
     bookdiff= {
-        "Price": 123
+        "Price": 1234444
     }
     #print(getAllBooks())
-    #print(getBookById(1))
-    print (deleteBook(76))
-    print (deleteBook(81))
+    print(getBookById(22))
+    #print (deleteBook(76))
+    #print (deleteBook(81))
     #print (createBook(book))
-    #print (updateBook(1, bookdiff))
+    print (updateBook(22, bookdiff))

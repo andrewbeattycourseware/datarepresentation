@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Topic-01-introduction",
+        "path": "code/Topic-01-introduction",
+        "sha": "ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic-01-introduction?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic-01-introduction",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic-01-introduction?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+            "html": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic-01-introduction"
+        }
+    },
+    {
+        "name": "Topic02-datastructures",
+        "path": "code/Topic02-datastructures",
+        "sha": "159973824a2b59521d60d7b191705cd59e19bf5f",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic02-datastructures?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic02-datastructures",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/159973824a2b59521d60d7b191705cd59e19bf5f",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic02-datastructures?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/159973824a2b59521d60d7b191705cd59e19bf5f",
+            "html": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic02-datastructures"
+        }
+    },
+    {
+        "name": "Topic03-dataTransfer",
+        "path": "code/Topic03-dataTransfer",
+        "sha": "2856a04f5321ae3e8464d15464d50deada227a3a",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic03-dataTransfer?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic03-dataTransfer",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/2856a04f5321ae3e8464d15464d50deada227a3a",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic03-dataTransfer?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/2856a04f5321ae3e8464d15464d50deada227a3a",
+            "html": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic03-dataTransfer"
+        }
+    },
+    {
+        "name": "Topic04-apis",
+        "path": "code/Topic04-apis",
+        "sha": "2fb2f5d7ed759ea095d796ffc0f8b9af99c8735f",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic04-apis?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic04-apis",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/2fb2f5d7ed759ea095d796ffc0f8b9af99c8735f",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code/Topic04-apis?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/datarepresentation/git/trees/2fb2f5d7ed759ea095d796ffc0f8b9af99c8735f",
+            "html": "https://github.com/andrewbeattycourseware/datarepresentation/tree/main/code/Topic04-apis"
+        }
+    }
+]
