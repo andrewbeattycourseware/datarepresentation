@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>View books</title>
+    </head>
+    <body>
+        <h1>Books</h1>
+        <div><button>Create a book</button><br/><br/></div>
+        <div>
+            <table border="1">
+                <tr>
+                        <th>id</th>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Price</th>
+                        <th>Update</th>
+                        <th>Delete</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Harry Potter does something</td>
+                    <td>JK Rowling</td>
+                    <td>12</td>
+                    <td><button>update</button></td>
+                    <td><button>delete</button></td>
+                   
+            </tr>
+
+        </table>
+        <br/>
+        </div>
+        <div>
+            <!-- spans are like divs but do not go onto a new line -->
+            <h2><span>Create a</span> <span style="display:none">Update this</span> Book</h2>
+            id <input type="text" name="id"><br/>
+            Title <input type="text" name="title"><br/>
+            Author <input type="text" name="author"><br/>
+            Price <input type="number" name="price"><br/>
+            Just to show select <select name="status">
+                <option value="instock">in stock</option>
+                <option value="outstock">out of stock</option>
+                <option value="other">out of print</option>
+            </select><br/>
+            <span><button>Create</button></span>
+ 			<span><button style="display:none">Update</button></span>
+             <!-- "display:none" will make it hidden-->
+
+
+        </div>
+        
+    </body>
+</html>
